@@ -1,0 +1,7 @@
+.react-pdf__Page__textContent {
+  color: transparent;
+}
+
+.react-pdf__Page__textContent ::selection {
+  background: rgba(0, 120, 255, 0.3);
+}
